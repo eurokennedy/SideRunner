@@ -1,2 +1,2 @@
 # SideRunner
-![Siderunnergame](https://user-images.githubusercontent.com/33200752/166906945-e140573b-1e91-4b84-aa3c-9eb04075d5cb.png)
+![Siderunnergame](https://user-images.githubusercontent.com/33200752/166907081-974d229c-4dbb-4b0a-913e-594b436a83be.png)
